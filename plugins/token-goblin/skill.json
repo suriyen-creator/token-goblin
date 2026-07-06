@@ -1,0 +1,18 @@
+{
+  "name": "token-goblin",
+  "description": "Reduce wasted output tokens with concise, direct, and token-efficient skills.",
+  "skills": [
+    {
+      "name": "yap-killer",
+      "description": "No filler, no narration, answer first."
+    },
+    {
+      "name": "diff-goblin",
+      "description": "Patch/diff format for coding tasks."
+    },
+    {
+      "name": "budget-mode",
+      "description": "Lite, core, ultra, or patch output modes."
+    }
+  ]
+}

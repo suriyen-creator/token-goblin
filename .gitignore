@@ -1,0 +1,14 @@
+.vscode/
+.claude/
+node_modules/
+dist/
+*.log
+.env
+aider/
+
+# Aider
+.aider*
+.aider.*
+.aider.tags.cache*
+.aider.chat.history.md
+.aider.input.history
